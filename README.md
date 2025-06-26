@@ -20,17 +20,7 @@ Welcome to the **Online Shopping Service** — a high-performance, scalable, and
 
 ---
 
-## 🔧 Multi-Language Implementations
 
-| Language | Status |
-|----------|--------|
-| ☕ Java   | ✅ Full-featured |
-| 🐍 Python | 🚧 In progress |
-| 🧠 C++    | 🚧 In progress |
-| 🔷 C#     | 🚧 In progress |
-| 🦫 Go     | 🚧 In progress |
-
----
 
 ## 🧱 Architecture Overview
 
