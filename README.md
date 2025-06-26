@@ -1,6 +1,6 @@
 # 🛍️ Online Shopping Service - Scalable & Concurrent E-Commerce System
 
-Welcome to the **Online Shopping Service** — a high-performance, scalable, and modular e-commerce system implemented in **Java, Python, C++, C#, and Go**. Built with best practices in OOP, design patterns (like Singleton & Strategy), and a focus on clean architecture! 🎯💡
+Welcome to the **Online Shopping Service** — a high-performance, scalable, and modular e-commerce system implemented in **Java**. Built with best practices in OOP, design patterns (like Singleton & Strategy), and a focus on clean architecture! 🎯💡
 
 ---
 
